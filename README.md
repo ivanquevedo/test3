@@ -21,7 +21,8 @@ letra ~bajada~
 - <a href="http://www.google.com">Google</a>
 - [Link Mardown](http://www.google.com)
 - http://github.com - automatic!
-  
+- [Redireccion Local](index.html)  
+
 ``` Java
 System.out.pritnln("Hola Mundo");
 ```
