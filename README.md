@@ -18,9 +18,10 @@ letra ~bajada~
 4. item 4
    
 # Enlaces
-- <a href="www.google.com">Google</a>
-- [Link Mardown](www.google.com)
-
+- <a href="http://www.google.com">Google</a>
+- [Link Mardown](http://www.google.com)
+- http://github.com - automatic!
+  
 ``` Java
 System.out.pritnln("Hola Mundo");
 ```
