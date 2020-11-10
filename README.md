@@ -2,17 +2,24 @@
 ## Proyecto TEST 3
 ### Proyecto Pruebas Git
 
-letra *italica* 1
-letra _italica_ 2
-
-letra en **bold o strong 1**
-letra en __bold o strong 2__
+- letra *italica* 1
+- letra _italica_ 2
+- letra en **bold o strong 1**
+- letra en __bold o strong 2__
 
 letra ~~tachada~~
 
 letra ~bajada~
 
-
+# Listas
+1. item 1 <ol>
+2. item 2
+3. item 3
+4. item 4
+   
+# Enlaces
+- <a href="www.google.com">Google</a>
+- [Link Mardown](www.google.com)
 
 ``` Java
 System.out.pritnln("Hola Mundo");
